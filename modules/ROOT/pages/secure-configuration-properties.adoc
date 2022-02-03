@@ -99,6 +99,8 @@ Note that the syntax has changed from earlier versions. To avoid issues, use the
 
 See <<parameter-reference>> for a complete list and definition of all accepted parameters.
 
+https://secure-properties-api.us-e1.cloudhub.io[There is also an online tool for encrypting and decrypting text strings]
+
 === Encrypt Text Strings
 
 Use the following syntax to encrypt or decrypt a text string provided as a parameter:
@@ -249,7 +251,7 @@ k/J1EHyxJagOcyQELoaqIDCzzKc1bLGJiHY2dv6jzuhtVpP1LTlgK3y8EH7OkK5iuuu8kik3P5dCDMix
 === Parameters Reference
 
 [cols="1a,4a", options="header"]
-|===
+|===Download link
 |Parameter
 |Description
 
